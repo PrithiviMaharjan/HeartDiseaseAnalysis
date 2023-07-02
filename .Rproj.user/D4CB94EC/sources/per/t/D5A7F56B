@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1612589510790.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3949458016",
+    "id" : "D5A7F56B",
+    "lastKnownWriteTime" : 1612596968,
+    "last_content_update" : 1612596968884,
+    "path" : "F:/college/masters/R programming/prithivi/heartData.R",
+    "project_path" : "heartData.R",
+    "properties" : {
+        "cursorPosition" : "54,0",
+        "scrollLine" : "31"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

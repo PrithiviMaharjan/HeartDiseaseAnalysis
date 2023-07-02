@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1612612256099.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2954633789",
+    "id" : "1D6F72D5",
+    "lastKnownWriteTime" : 1612704275,
+    "last_content_update" : 1612704275238,
+    "path" : "C:/Users/prith/Downloads/R programming/R programming/15043736 Prithivi Maharjan/heartData.R",
+    "project_path" : "heartData.R",
+    "properties" : {
+        "cursorPosition" : "486,0",
+        "notebook_format" : "html_document",
+        "scrollLine" : "461"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
